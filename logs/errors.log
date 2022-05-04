@@ -1,0 +1,364 @@
+[ Error ][ 2021-12-24 14:09:16 ][ 2 ]: mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in file /var/www/html/webshop/include/class/db.php on line 24
+[ Error ][ 2021-12-24 14:09:16 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/include/class/db.php on line 26
+[ Error ][ 2021-12-24 14:30:30 ][ 2 ]: mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in file /var/www/html/webshop/include/class/db.php on line 24
+[ Error ][ 2021-12-24 14:30:30 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/include/class/db.php on line 26
+[ Error ][ 2021-12-24 16:56:21 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/include/class/db.php on line 26
+[ Error ][ 2021-12-24 16:57:43 ][ 1045 ]: Access denied for user 'Webuser'@'172.27.0.5' (using password: YES) in file /var/www/html/webshop/include/class/db.php on line 24
+[ Error ][ 2021-12-25 11:26:26 ][ 0 ]: implode(): Argument #2 ($array) must be of type ?array, string given in file /var/www/html/webshop/register.php on line 89
+[ Error ][ 2021-12-25 11:26:36 ][ 2 ]: Undefined array key "DOB" in file /var/www/html/webshop/register.php on line 212
+[ Error ][ 2021-12-25 11:26:40 ][ 2 ]: Undefined array key "DOB" in file /var/www/html/webshop/register.php on line 212
+[ Error ][ 2021-12-25 11:30:20 ][ 0 ]: implode(): Argument #2 ($array) must be of type ?array, string given in file /var/www/html/webshop/register.php on line 90
+[ Error ][ 2021-12-25 11:33:00 ][ 0 ]: date(): Argument #2 ($timestamp) must be of type ?int, string given in file /var/www/html/webshop/register.php on line 93
+[ Error ][ 2021-12-25 11:33:20 ][ 0 ]: date(): Argument #2 ($timestamp) must be of type ?int, string given in file /var/www/html/webshop/register.php on line 93
+[ Error ][ 2021-12-25 11:35:25 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-25 12:00:41 ][ 2 ]: Undefined variable $db in file /var/www/html/webshop/manage-products.php on line 37
+[ Error ][ 2021-12-25 12:00:43 ][ 2 ]: Undefined variable $db in file /var/www/html/webshop/manage-products.php on line 37
+[ Error ][ 2021-12-25 12:57:40 ][ 2 ]: Undefined array key "unitPrice" in file /var/www/html/webshop/api/products/add.php on line 12
+[ Error ][ 2021-12-25 12:57:40 ][ 2 ]: Undefined array key "unitPrice" in file /var/www/html/webshop/api/products/add.php on line 12
+[ Error ][ 2021-12-25 13:06:32 ][ 2 ]: Undefined variable $vatValues in file /var/www/html/webshop/api/products/add.php on line 41
+[ Error ][ 2021-12-25 13:24:06 ][ 2 ]: Array to string conversion in file /var/www/html/webshop/api/products/add.php on line 43
+[ Error ][ 2021-12-25 13:24:43 ][ 2 ]: Array to string conversion in file /var/www/html/webshop/api/products/add.php on line 43
+[ Error ][ 2021-12-25 13:35:44 ][ 0 ]: Unsupported operand types: string + int in file /var/www/html/webshop/api/products/add.php on line 18
+[ Error ][ 2021-12-25 13:38:28 ][ 0 ]: Unsupported operand types: string + string in file /var/www/html/webshop/api/products/add.php on line 18
+[ Info ][ 2021-12-25 13:42:21 ]User 2added product 18\n[ Info ][ 2021-12-25 13:42:21 ]User 2 uploaded image products/2021-12-25-13-42-21-id-18.jpg\n[ Info ][ 2021-12-25 13:43:06 ]User 2 added product 19
+[ Info ][ 2021-12-25 13:43:06 ]User 2 uploaded image products/2021-12-25-13-43-06-id-19.jpg
+[ Info ][ 2021-12-25 13:43:53 ]User 2 added product 20
+[ Info ][ 2021-12-25 13:43:53 ]User 2 uploaded image 'products/2021-12-25-13-43-53-id-20.jpg'
+[ Error ][ 2021-12-25 13:56:31 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/products/add.php on line 12
+[ Error ][ 2021-12-25 13:57:41 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/products/add.php on line 12
+[ Error ][ 2021-12-25 13:58:33 ][ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT LAST_INSERT_ID()' at line 1 in file /var/www/html/webshop/include/class/db.php on line 99
+[ Error ][ 2021-12-25 14:05:35 ][ 2 ]: Undefined property: mysqli::$lastInsertId in file /var/www/html/webshop/include/class/db.php on line 94
+[ Error ][ 2021-12-25 14:06:08 ][ 2 ]: Undefined property: mysqli::$lastInsertId in file /var/www/html/webshop/include/class/db.php on line 94
+[ Error ][ 2021-12-25 14:08:08 ][ 2014 ]: Commands out of sync; you can't run this command now in file /var/www/html/webshop/include/class/db.php on line 84
+[ Error ][ 2021-12-25 14:11:15 ][ 2014 ]: Commands out of sync; you can't run this command now in file /var/www/html/webshop/include/class/db.php on line 84
+[ Info ][ 2021-12-25 14:11:31 ]: User 2 added product 25
+[ Info ][ 2021-12-25 14:11:31 ]: User 2 uploaded image 'products/2021-12-25-14-11-31-id-25.'
+[ Info ][ 2021-12-25 14:11:54 ]: User 2 added product 26
+[ Info ][ 2021-12-25 14:11:54 ]: User 2 uploaded image 'products/2021-12-25-14-11-54-id-26.'
+[ Info ][ 2021-12-25 14:25:40 ]: User 2 added product 27
+[ Info ][ 2021-12-25 14:25:40 ]: User 2 uploaded image 'products/2021-12-25-14-25-40-id-27.jpg'
+[ Info ][ 2021-12-25 14:26:16 ]: User 2 added product 28
+[ Info ][ 2021-12-25 14:26:16 ]: User 2 uploaded image 'products/2021-12-25-14-26-16-id-28.jpg'
+[ Info ][ 2021-12-25 14:26:57 ]: User 2 added product 29
+[ Info ][ 2021-12-25 14:26:57 ]: User 2 uploaded image 'products/2021-12-25-14-26-57-id-29.jpg'
+[ Info ][ 2021-12-25 14:30:32 ]: User 2 added product 30
+[ Info ][ 2021-12-25 14:30:32 ]: User 2 uploaded image 'products/2021-12-25-14-30-32-id-30.jpg'
+[ Info ][ 2021-12-25 14:33:19 ]: User 2 added product 31
+[ Info ][ 2021-12-25 14:33:19 ]: User 2 uploaded image 'products/2021-12-25-14-33-19-id-31.jpg'
+[ Info ][ 2021-12-25 14:47:24 ]: User 2 added product 32
+[ Info ][ 2021-12-25 14:47:24 ]: User 2 uploaded image 'products/2021-12-25-14-47-24-id-32.jpg'
+[ Info ][ 2021-12-25 14:50:10 ]: User 2 added product 33
+[ Info ][ 2021-12-25 14:50:10 ]: User 2 uploaded image 'products/2021-12-25-14-50-10-id-33.jpg'
+[ Info ][ 2021-12-25 16:48:31 ]: User 2 updated product 27
+[ Error ][ 2021-12-25 16:48:31 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 55
+[ Info ][ 2021-12-25 17:06:30 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:06:33 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:06:33 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:07:05 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:07:06 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:07:06 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:07:40 ]: User 2 updated product 28
+[ Error ][ 2021-12-25 17:07:40 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 55
+[ Info ][ 2021-12-25 17:07:40 ]: User 2 updated product 28
+[ Error ][ 2021-12-25 17:07:40 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 55
+[ Info ][ 2021-12-25 17:07:40 ]: User 2 updated product 28
+[ Error ][ 2021-12-25 17:07:40 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 55
+[ Info ][ 2021-12-25 17:08:29 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:08:30 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:08:32 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:08:33 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:09:30 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:09:35 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:09:35 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:09 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:11 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:11 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:15 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:15 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:15 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:10:17 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:10:17 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:10:17 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:10:17 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:10:52 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:10:54 ]: User 2 updated product 31
+[ Error ][ 2021-12-25 17:10:54 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:10:54 ]: User 2 updated product 31
+[ Error ][ 2021-12-25 17:10:54 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:10:55 ]: User 2 updated product 31
+[ Info ][ 2021-12-25 17:10:55 ]: User 2 updated product 31
+[ Info ][ 2021-12-25 17:10:55 ]: User 2 updated product 31
+[ Info ][ 2021-12-25 17:11:41 ]: User 2 updated product 31
+[ Info ][ 2021-12-25 17:11:53 ]: User 2 updated product 31
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 updated product 29
+[ Error ][ 2021-12-25 17:13:48 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 added product 34
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 added product 35
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 added product 36
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 updated product 29
+[ Error ][ 2021-12-25 17:13:48 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 updated product 29
+[ Error ][ 2021-12-25 17:13:48 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:13:48 ]: User 2 updated product 29
+[ Error ][ 2021-12-25 17:13:48 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:18:19 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:18:21 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:18:22 ]: User 2 updated product 29
+[ Info ][ 2021-12-25 17:19:29 ]: User 2 updated product 27
+[ Error ][ 2021-12-25 17:19:29 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:20:35 ]: User 2 updated product 27
+[ Error ][ 2021-12-25 17:21:02 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 53
+[ Info ][ 2021-12-25 17:22:39 ]: User 2 updated product 27
+[ Info ][ 2021-12-25 17:22:46 ]: User 2 updated product 28
+[ Info ][ 2021-12-25 17:22:52 ]: User 2 updated product 29
+[ Info ][ 2021-12-25 17:28:01 ]: User 2 added product 37
+[ Info ][ 2021-12-26 16:38:59 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:39:44 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:39:57 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:41:57 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:42:12 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:45:59 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:47:22 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:49:19 ]: User 2 added product 38
+[ Info ][ 2021-12-26 16:49:31 ]: User 2 updated product 38
+[ Info ][ 2021-12-26 16:49:34 ]: User 2 updated product 38
+[ Info ][ 2021-12-26 16:49:42 ]: User 2 updated product 38
+[ Info ][ 2021-12-26 16:55:25 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:55:48 ]: User 2 updated product 27
+[ Info ][ 2021-12-26 16:57:05 ]: User 2 updated product 27
+[ Error ][ 2021-12-26 17:15:52 ][ 2 ]: Undefined array key "id" in file /var/www/html/webshop/api/cart/add.php on line 11
+[ Error ][ 2021-12-26 17:16:00 ][ 2 ]: Undefined array key "id" in file /var/www/html/webshop/api/cart/add.php on line 11
+[ Error ][ 2021-12-26 17:16:12 ][ 2 ]: Undefined array key "id" in file /var/www/html/webshop/api/cart/add.php on line 11
+[ Error ][ 2021-12-26 17:16:46 ][ 2 ]: Undefined array key "id" in file /var/www/html/webshop/api/cart/add.php on line 11
+[ Error ][ 2021-12-26 17:17:14 ][ 2 ]: Undefined array key "id" in file /var/www/html/webshop/api/cart/add.php on line 11
+[ Error ][ 2021-12-26 17:22:19 ][ 1364 ]: Field 'orderDate' doesn't have a default value in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-26 17:56:36 ][ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'seded' at line 1 in file /var/www/html/webshop/include/class/db.php on line 104
+[ Error ][ 2021-12-26 17:57:19 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/products/add.php on line 17
+[ Error ][ 2021-12-26 17:58:21 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/products/add.php on line 17
+[ Error ][ 2021-12-26 17:58:37 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/products/add.php on line 17
+[ Error ][ 2021-12-26 17:59:06 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/products/add.php on line 17
+[ Error ][ 2021-12-26 18:00:03 ][ 0 ]: The number of variables must match the number of parameters in the prepared statement in file /var/www/html/webshop/include/class/db.php on line 58
+[ Error ][ 2021-12-26 18:01:50 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`orderProducts`, CONSTRAINT `orderProducts_ibfk_2` FOREIGN KEY (`productID`) REFERENCES `products` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-26 18:04:09 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`orderProducts`, CONSTRAINT `orderProducts_ibfk_2` FOREIGN KEY (`productID`) REFERENCES `products` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-26 18:04:47 ][ 1062 ]: Duplicate entry '3-30' for key 'PRIMARY' in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-26 18:34:48 ][ 1062 ]: Duplicate entry '3-30' for key 'PRIMARY' in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-26 20:17:39 ][ 0 ]: Unsupported operand types: int + string in file /var/www/html/webshop/api/cart/edit.php on line 37
+[ Error ][ 2021-12-26 20:33:59 ][ 2 ]: require_once(./user.php): Failed to open stream: No such file or directory in file /var/www/html/webshop/include/class/require-role.php on line 2
+[ Error ][ 2021-12-26 21:31:17 ][ 2 ]: Undefined array key "" in file /var/www/html/webshop/api/cart/place-order.php on line 48
+[ Error ][ 2021-12-26 21:32:23 ][ 2 ]: Undefined variable $reponse in file /var/www/html/webshop/api/cart/place-order.php on line 64
+[ Info ][ 2021-12-27 13:26:09 ]: User 2 added category 8 with name Test category
+[ Error ][ 2021-12-27 13:26:14 ][ 2 ]: Undefined array key "description" in file /var/www/html/webshop/api/products/edit.php on line 24
+[ Error ][ 2021-12-27 13:26:18 ][ 2 ]: Undefined array key "description" in file /var/www/html/webshop/api/products/edit.php on line 24
+[ Error ][ 2021-12-27 13:26:34 ][ 2 ]: Undefined array key "description" in file /var/www/html/webshop/api/products/edit.php on line 24
+[ Info ][ 2021-12-27 13:26:58 ]: User 2 updated category 8 to name Test categories
+[ Info ][ 2021-12-27 13:27:18 ]: User 2 updated category 7 to name Veegan
+[ Info ][ 2021-12-27 13:27:29 ]: User 2 updated category 7 to name Vegan
+[ Error ][ 2021-12-27 13:32:04 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/api/categories/edit.php on line 12
+[ Error ][ 2021-12-27 13:32:12 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/api/categories/edit.php on line 12
+[ Error ][ 2021-12-27 13:34:03 ][ 0 ]: ID of category needs to be defined in file /var/www/html/webshop/api/categories/remove.php on line 12
+[ Error ][ 2021-12-27 13:36:18 ][ 0 ]: ID of category needs to be defined in file /var/www/html/webshop/api/categories/remove.php on line 12
+[ Error ][ 2021-12-27 13:37:02 ][ 0 ]: ID of category needs to be defined in file /var/www/html/webshop/api/categories/remove.php on line 12
+[ Error ][ 2021-12-27 13:37:05 ][ 0 ]: ID of category needs to be defined in file /var/www/html/webshop/api/categories/remove.php on line 12
+[ Error ][ 2021-12-27 13:40:24 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/categories/remove.php on line 20
+[ Error ][ 2021-12-27 13:40:27 ][ 1451 ]: Cannot delete or update a parent row: a foreign key constraint fails (`webshop`.`productCategory`, CONSTRAINT `productCategory_ibfk_2` FOREIGN KEY (`categoryID`) REFERENCES `categories` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 14:21:06 ][ 2 ]: Undefined variable $errormsg in file /var/www/html/webshop/manage-users.php on line 31
+[ Error ][ 2021-12-27 14:22:54 ][ 2 ]: Undefined variable $errormsg in file /var/www/html/webshop/manage-users.php on line 31
+[ Error ][ 2021-12-27 17:32:50 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/users/edit.php on line 19
+[ Error ][ 2021-12-27 17:32:52 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/users/edit.php on line 19
+[ Error ][ 2021-12-27 17:32:54 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/users/edit.php on line 19
+[ Error ][ 2021-12-27 17:33:09 ][ 2 ]: Undefined array key "active" in file /var/www/html/webshop/api/users/edit.php on line 19
+[ Error ][ 2021-12-27 17:34:31 ][ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',`active`=?'
+    WHERE ID=?' at line 1 in file /var/www/html/webshop/include/class/db.php on line 104
+[ Error ][ 2021-12-27 17:35:06 ][ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',`active`=?
+    WHERE ID=?' at line 1 in file /var/www/html/webshop/include/class/db.php on line 104
+[ Error ][ 2021-12-27 17:35:38 ][ 1064 ]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',`active`=?
+    WHERE ID=?' at line 1 in file /var/www/html/webshop/include/class/db.php on line 104
+[ Error ][ 2021-12-27 17:36:21 ][ 1292 ]: Incorrect date value: '' for column `webshop`.`users`.`DOB` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-27 17:37:45 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:37:46 ]: User 2 updated user 3
+[ Error ][ 2021-12-27 17:38:03 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-27 17:38:07 ]: User 2 updated user 2
+[ Info ][ 2021-12-27 17:38:10 ]: User 2 updated user 2
+[ Error ][ 2021-12-27 17:39:43 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 17:39:52 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 17:41:12 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-27 17:41:23 ]: User 2 updated user 2
+[ Info ][ 2021-12-27 17:41:39 ]: User 2 updated user 3
+[ Error ][ 2021-12-27 17:41:59 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 17:44:21 ][ 1452 ]: Cannot add or update a child row: a foreign key constraint fails (`webshop`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleID`) REFERENCES `roles` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 17:45:51 ][ 2 ]: Undefined variable $DOB in file /var/www/html/webshop/api/users/edit.php on line 21
+[ Error ][ 2021-12-27 17:45:57 ][ 1366 ]: Incorrect integer value: '' for column `webshop`.`users`.`roleID` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-27 17:50:06 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:50:11 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:50:17 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:50:28 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:50:40 ]: User 2 updated user 3
+[ Error ][ 2021-12-27 17:50:44 ][ 2 ]: Undefined variable $DOB in file /var/www/html/webshop/api/users/edit.php on line 21
+[ Info ][ 2021-12-27 17:51:21 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:56:11 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 17:56:14 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 20:00:21 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:00:23 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:00:24 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:31:49 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:31:51 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:31:52 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:31:53 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:32:38 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:32:42 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:32:43 ]: User 3 updated user 3
+[ Info ][ 2021-12-27 20:37:09 ]: User 2 updated user 2
+[ Error ][ 2021-12-27 20:37:13 ][ 1366 ]: Incorrect integer value: 'true' for column `webshop`.`users`.`active` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 20:38:16 ][ 1366 ]: Incorrect integer value: 'true' for column `webshop`.`users`.`active` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 20:39:18 ][ 1366 ]: Incorrect integer value: 'false' for column `webshop`.`users`.`active` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Error ][ 2021-12-27 20:39:20 ][ 1366 ]: Incorrect integer value: 'false' for column `webshop`.`users`.`active` at row 1 in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-27 20:40:01 ]: User 2 updated user 2
+[ Info ][ 2021-12-27 20:40:02 ]: User 2 updated user 2
+[ Info ][ 2021-12-27 20:40:02 ]: User 2 updated user 3
+[ Info ][ 2021-12-27 20:54:23 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 20:54:39 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 20:54:51 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:03:20 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:03:26 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:03:34 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:03:38 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:03:59 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:04:05 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:04:06 ]: User 2 updated user 4
+[ Error ][ 2021-12-27 21:24:20 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/api/users/edit.php on line 17
+[ Error ][ 2021-12-27 21:24:41 ][ 0 ]: Can only throw objects in file /var/www/html/webshop/api/users/edit.php on line 17
+[ Info ][ 2021-12-27 21:25:42 ]: User 2 updated user 4
+[ Info ][ 2021-12-27 21:25:43 ]: User 2 updated user 4
+[ Error ][ 2021-12-28 12:09:17 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:09:21 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:10:09 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:10:43 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:10:44 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:10:58 ][ 2 ]: Undefined variable $Volle melk in file /var/www/html/webshop/profile.php on line 148
+[ Error ][ 2021-12-28 12:11:24 ][ 2 ]: Undefined variable $amout in file /var/www/html/webshop/profile.php on line 154
+[ Info ][ 2021-12-28 12:55:44 ]: User 2 updated profile
+[ Info ][ 2021-12-28 12:55:49 ]: User 2 updated profile
+[ Info ][ 2021-12-28 12:56:02 ]: User 2 updated profile
+[ Info ][ 2021-12-28 12:56:27 ]: User 2 updated profile
+[ Info ][ 2021-12-28 13:12:56 ]: User 2 updated profile
+[ Info ][ 2021-12-28 13:13:31 ]: User 2 updated profile
+[ Info ][ 2021-12-28 14:26:20 ]: User 2 updated profile
+[ Info ][ 2021-12-28 14:26:24 ]: User 2 updated profile
+[ Info ][ 2021-12-28 14:26:27 ]: User 2 updated profile
+[ Error ][ 2021-12-28 14:26:35 ][ 0 ]: User 2tried changing email but is already taken by someone else. in file /var/www/html/webshop/api/user/edit.php on line 11
+[ Info ][ 2021-12-28 14:57:06 ]: User 2 updated profile
+[ Error ][ 2021-12-28 14:57:12 ][ 0 ]: User 2tried changing email but is already taken by someone else. in file /var/www/html/webshop/api/user/edit.php on line 11
+[ Error ][ 2021-12-28 14:57:32 ][ 0 ]: User 2tried changing email but is already taken by someone else. in file /var/www/html/webshop/api/user/edit.php on line 11
+[ Error ][ 2021-12-28 14:58:01 ][ 0 ]: User 2tried changing email but is already taken by someone else. in file /var/www/html/webshop/api/user/edit.php on line 11
+[ Info ][ 2021-12-28 15:06:22 ]: User 2 updated product 27
+[ Info ][ 2021-12-28 15:06:26 ]: User 2 updated product 27
+[ Info ][ 2021-12-28 16:01:37 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:01:38 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:02:08 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:02:09 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:03:47 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:04:12 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 16:04:13 ]: User 2 updated user 2
+[ Error ][ 2021-12-28 16:05:37 ][ 0 ]: Can't edit user 2's email because it is already taken by someone else. in file /var/www/html/webshop/api/users/edit.php on line 16
+[ Error ][ 2021-12-28 16:05:50 ][ 0 ]: Can't edit user 2's email because it is already taken by someone else. in file /var/www/html/webshop/api/users/edit.php on line 16
+[ Info ][ 2021-12-28 16:07:25 ]: User 2 updated user 2
+[ Error ][ 2021-12-28 16:07:34 ][ 0 ]: Can't edit user 2's email because it is already taken by someone else. in file /var/www/html/webshop/api/users/edit.php on line 16
+[ Error ][ 2021-12-28 16:10:11 ][ 0 ]: User 2tried changing email but is already taken by someone else. in file /var/www/html/webshop/api/user/edit.php on line 11
+[ Error ][ 2021-12-28 16:59:14 ][ 0 ]: in_array(): Argument #2 ($haystack) must be of type array, string given in file /var/www/html/webshop/products.php on line 45
+[ Error ][ 2021-12-28 16:59:34 ][ 0 ]: in_array(): Argument #2 ($haystack) must be of type array, string given in file /var/www/html/webshop/products.php on line 45
+[ Info ][ 2021-12-28 17:14:39 ]: User 2 added product 39
+[ Info ][ 2021-12-28 17:14:39 ]: User 2 uploaded image 'products/2021-12-28-17-14-39-id-39.jpg'
+[ Info ][ 2021-12-28 17:20:37 ]: User 2 added product 40
+[ Info ][ 2021-12-28 17:20:37 ]: User 2 uploaded image 'products/2021-12-28-17-20-37-id-40.jpg'
+[ Info ][ 2021-12-28 17:21:48 ]: User 2 added product 41
+[ Info ][ 2021-12-28 17:27:33 ]: User 2 added product 42
+[ Info ][ 2021-12-28 17:27:43 ]: User 2 added category 9 with name <script>alert('test')</script>
+[ Info ][ 2021-12-28 17:35:29 ]: User 2 updated category 9 to name &lt;script&gt;alert('test')&lt;/script&gt;
+[ Info ][ 2021-12-28 17:35:32 ]: User 2 updated category 9 to name &lt;script&gt;alert('test')&lt;/script&gt;
+[ Info ][ 2021-12-28 17:35:36 ]: User 2 updated category 9 to name &lt;script&gt;alert('test')&lt;/script&gt;
+[ Info ][ 2021-12-28 17:37:29 ]: User 2 updated profile
+[ Info ][ 2021-12-28 17:37:32 ]: User 2 updated profile
+[ Info ][ 2021-12-28 17:38:04 ]: User 2 updated profile
+[ Info ][ 2021-12-28 17:41:02 ]: User 2 updated user 2
+[ Error ][ 2021-12-28 17:41:28 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/categories/remove.php on line 20
+[ Error ][ 2021-12-28 17:41:36 ][ 1451 ]: Cannot delete or update a parent row: a foreign key constraint fails (`webshop`.`productCategory`, CONSTRAINT `productCategory_ibfk_2` FOREIGN KEY (`categoryID`) REFERENCES `categories` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-28 17:42:07 ]: User 2 added category 10 with name <script>alert('test')</script>
+[ Info ][ 2021-12-28 17:43:01 ]: User 2 updated product 42
+[ Info ][ 2021-12-28 17:50:35 ]: User 2 updated product 42
+[ Error ][ 2021-12-28 17:50:46 ][ 1451 ]: Cannot delete or update a parent row: a foreign key constraint fails (`webshop`.`productCategory`, CONSTRAINT `productCategory_ibfk_2` FOREIGN KEY (`categoryID`) REFERENCES `categories` (`ID`)) in file /var/www/html/webshop/include/class/db.php on line 60
+[ Info ][ 2021-12-28 17:50:56 ]: User 2 updated product 42
+[ Error ][ 2021-12-28 17:51:04 ][ 2 ]: Undefined array key "name" in file /var/www/html/webshop/api/categories/remove.php on line 20
+[ Error ][ 2021-12-28 18:23:53 ][ 0 ]: Can't edit user 3's email because it is already taken by someone else. in file /var/www/html/webshop/api/users/edit.php on line 16
+[ Error ][ 2021-12-28 18:23:59 ][ 0 ]: Can't edit user 3's email because it is already taken by someone else. in file /var/www/html/webshop/api/users/edit.php on line 16
+[ Info ][ 2021-12-28 18:24:07 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 18:24:08 ]: User 2 updated user 2
+[ Info ][ 2021-12-28 18:24:50 ]: User 2 updated user 3
+[ Info ][ 2021-12-28 18:24:51 ]: User 2 updated user 3
+[ Info ][ 2021-12-28 18:24:52 ]: User 2 updated user 3
+[ Error ][ 2021-12-28 18:36:45 ][ 2 ]: Undefined variable $db in file /var/www/html/webshop/products.php on line 64
+[ Info ][ 2021-12-28 19:03:55 ]: User 2 updated product 42
+[ Info ][ 2021-12-28 19:03:56 ]: User 2 updated product 42
+[ Info ][ 2021-12-28 19:17:18 ]: User 3 updated user 3
+[ Info ][ 2021-12-29 12:42:30 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:32 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:33 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:35 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:42 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:43 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:44 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:45 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:50 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:42:51 ]: User 2 updated user 4
+[ Info ][ 2021-12-29 12:47:53 ]: User 2 updated product 37
+[ Info ][ 2021-12-29 12:47:56 ]: User 2 updated product 37
+[ Info ][ 2021-12-29 13:12:43 ]: User 2 updated product 42
+[ Info ][ 2021-12-29 13:12:46 ]: User 2 updated product 42
+[ Info ][ 2021-12-29 13:15:20 ]: User 2 updated product 39
+[ Info ][ 2021-12-29 13:47:43 ]: User 2 updated product 42
+[ Error ][ 2021-12-29 13:47:43 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:48:22 ]: User 2 updated product 42
+[ Error ][ 2021-12-29 13:48:22 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:48:48 ]: User 2 updated product 37
+[ Error ][ 2021-12-29 13:48:48 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:49:03 ]: User 2 added product 43
+[ Info ][ 2021-12-29 13:49:03 ]: User 2 uploaded image 'products/2021-12-29-13-49-03-id-43.jpg'
+[ Info ][ 2021-12-29 13:49:20 ]: User 2 updated product 43
+[ Error ][ 2021-12-29 13:49:20 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:50:50 ]: User 2 updated product 43
+[ Error ][ 2021-12-29 13:50:50 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:51:11 ]: User 2 updated product 43
+[ Error ][ 2021-12-29 13:51:11 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:52:12 ]: User 2 updated product 43
+[ Error ][ 2021-12-29 13:52:12 ][ 2 ]: Undefined variable $ID in file /var/www/html/webshop/api/products/edit.php on line 37
+[ Info ][ 2021-12-29 13:52:19 ]: User 2 updated product 43
+[ Info ][ 2021-12-29 13:53:25 ]: User 2 updated product 43
+[ Info ][ 2021-12-29 13:53:25 ]: User 2 uploaded image 'products/2021-12-29-13-53-25-id-43.jpg'
+[ Info ][ 2021-12-29 13:54:28 ]: User 2 updated product 43
+[ Info ][ 2021-12-29 13:56:04 ]: User 2 updated product 37
+[ Warning ][ 2021-12-29 14:24:59 ]: Failed login attempt with email peter5sleconte@gmail.com
+[ Warning ][ 2021-12-29 14:25:57 ]: Failed login attempt with email 'peter5sleconte@gmail.com'
+[ Info ][ 2021-12-29 14:28:46 ]: New user registered. ID: 5
+[ Info ][ 2021-12-29 14:32:55 ]: User 2 updated product 39
+[ Info ][ 2021-12-29 14:33:39 ]: User 2 updated product 39
+[ Info ][ 2021-12-29 14:35:19 ]: 5 placed order 14
+[ Info ][ 2021-12-29 14:35:54 ]: UserID 2 placed order 9
+[ Info ][ 2021-12-29 14:36:35 ]: UserID 2 placed order 15
+[ Warning ][ 2021-12-29 14:37:35 ]: Failed login attempt with email 't@t.com'
+[ Info ][ 2021-12-29 14:38:54 ]: User 2 updated user 4
+[ Warning ][ 2021-12-29 14:42:15 ]: Failed login attempt with email 'test@gmail.com'
+[ Info ][ 2021-12-29 14:48:31 ]: User 2 updated product 42
+[ Info ][ 2021-12-29 15:13:39 ]: User 2 updated product 42
+[ Info ][ 2021-12-29 15:13:51 ]: User 2 updated product 42
+[ Info ][ 2021-12-29 15:32:50 ]: User 2 updated product 42
+[ Info ][ 2021-12-31 19:47:44 ]: User 2 updated user 4
+[ Info ][ 2021-12-31 19:47:45 ]: User 2 updated user 4
+[ Info ][ 2021-12-31 19:47:46 ]: User 2 updated user 4
+[ Info ][ 2021-12-31 19:47:47 ]: User 2 updated user 4
+[ Info ][ 2021-12-31 19:47:48 ]: User 2 updated user 4
+[ Info ][ 2021-12-31 19:48:36 ]: User 2 added category 11 with name Nieuwe cat
+[ Info ][ 2021-12-31 19:48:50 ]: User 2 updated product 27
+[ Info ][ 2021-12-31 19:48:55 ]: User 2 updated product 27
+[ Info ][ 2021-12-31 19:50:40 ]: UserID 2 placed order 16
+[ Info ][ 2022-01-02 22:22:36 ]: User 2 updated product 43
+[ Info ][ 2022-01-02 22:22:49 ]: User 2 updated product 43
+[ Info ][ 2022-01-02 22:22:52 ]: User 2 updated product 43
